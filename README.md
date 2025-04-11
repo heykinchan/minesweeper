@@ -1,7 +1,7 @@
 
 # Mine Sweeper Game
 
-A course project in my uni study. This is a Minesweeper game for fun, implemented using Java with gradle and processing library. 
+A course project in my uni study. This is a Minesweeper game for fun, implemented using Java with Gradle and Processing library. 
 
 ---
 
@@ -13,27 +13,12 @@ A course project in my uni study. This is a Minesweeper game for fun, implemente
 - Gradle (or use the Gradle wrapper)
 - [Processing Core Library](https://processing.org/)
 
-Make sure to include the `processing-core` dependency in `build.gradle`:
-
-```groovy
-dependencies {
-    implementation 'org.processing:core:3.3.7'
-}
-```
-
 ### Running the Game
 
 To run with Gradle:
 
 ```bash
-./gradlew run
-```
-
-Or compile and run manually:
-
-```bash
-javac -cp path_to_processing_core.jar src/main/java/minesweeper/*.java
-java -cp .:path_to_processing_core.jar minesweeper.App
+gradle run
 ```
 
 ---
