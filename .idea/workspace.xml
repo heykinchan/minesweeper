@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76f2d53d-6f1c-4755-ad20-d6c5caf96e8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/java/minesweeper/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minesweeper/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/java/minesweeper/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minesweeper/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/flag.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/flag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/mine9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/mine9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/tile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/tile1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/tile1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/tile2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/tile2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine Sweeper/src/main/resources/minesweeper/wall0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/minesweeper/wall0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_Minesweeper.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="minesweeper" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2va903C5Ts108ULfL7Tu48NWA7E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kinchen/Documents/GitHub/minesweeper",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76f2d53d-6f1c-4755-ad20-d6c5caf96e8b" name="Changes" comment="" />
+      <created>1744372090779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744372090779</updated>
+      <workItem from="1744372091968" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
