@@ -1,35 +1,11 @@
 
 # Mine Sweeper Game
 
-This is a Java-based implementation of the classic Minesweeper game using the **Processing** graphics library.
-
-## 🧠 Game Concept
-
-- The board is a grid of tiles. Some tiles contain mines.
-- The objective is to uncover all the tiles that do not contain mines.
-- A number is shown on a tile indicating how many neighbouring tiles contain mines.
-- Right-click to flag suspected mines. Left-click to reveal tiles.
-- The game ends in either a win (all non-mine tiles uncovered) or loss (mine revealed).
+A course project in my uni study. This is a Minesweeper game for fun, implemented using Java with gradle and processing library. 
 
 ---
 
-## 📁 Project Structure
-
-```
-Mine Sweeper/
-├── build.gradle                             # Gradle build configuration
-├── src/
-│   ├── main/
-│   │   ├── java/minesweeper/
-│   │   │   ├── App.java                    # Main application class
-│   │   │   └── Tile.java                   # Represents each tile on the board
-│   │   └── resources/minesweeper/
-│   │       └── *.png                       # Sprite assets (tiles, mines, flags)
-```
-
----
-
-## 🚀 Getting Started
+## 🚀 Set-up of the Program
 
 ### Prerequisites
 
@@ -62,18 +38,6 @@ java -cp .:path_to_processing_core.jar minesweeper.App
 
 ---
 
-## 🎨 Assets
-
-All graphics (e.g., mines, tiles, flags) are stored in:
-
-```
-src/main/resources/minesweeper/
-```
-
-These are loaded dynamically through `App.java` and used during rendering.
-
----
-
 ## 🎮 Controls
 
 - **Left Click**: Reveal tile
@@ -89,4 +53,4 @@ These are loaded dynamically through `App.java` and used during rendering.
 
 ---
 
-Enjoy playing and modifying this version of Minesweeper!
+Enjoy playing this version of Minesweeper!
