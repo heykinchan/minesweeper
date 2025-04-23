@@ -1,7 +1,7 @@
 
 # Mine Sweeper Game
 
-A course project in my uni study. This is a Minesweeper game for fun, implemented using Java with Gradle and Processing library. 
+This is a Minesweeper game for fun, implemented using Java with Gradle and Processing library. 
 
 ---
 
