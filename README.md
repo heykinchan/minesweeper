@@ -3,6 +3,9 @@
 
 This is a Minesweeper game for fun, implemented using Java with Gradle and Processing library. 
 
+## Screencap of the Game
+![screencap](images/screencap.png)
+
 ---
 
 ## 🚀 Set-up of the Program
